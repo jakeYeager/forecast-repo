@@ -15,11 +15,12 @@ The following forecasts were generated with the first iteration of cluster densi
 - last_at: Tue, 07 Sep 2021 09:49:57 UTC +00:00
 - generated_at: Fri, 29 Apr 2022 04:45:58 UTC +00:00
 
+*Forecast Files*
+
+All dates in UTC unless otherwise indicated.
 - [CSV for 2021 dates](20220430123924-polynesia-2021_recurrence_risk_dates.csv)
 - [CSV for 2022 dates](20220430124006-polynesia-2022_recurrence_risk_dates.csv)
 - [CSV for 2023 dates](20220430124015-polynesia-2023_recurrence_risk_dates.csv)
-
-All dates in UTC unless otherwise indicated.
 
 Cluster binary score can be interpreted as:
 - *0* = background field
